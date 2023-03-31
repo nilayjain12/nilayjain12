@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Artificial Neural Network, Machine Learning, and Blockchain**
 
-- 💬 Ask me about **Python, C++, SQl, Powershell, ServiceNow, VMware, Active Directory**
+- 💬 Ask me about **Python, Django, Scikit-learn,C++, SQl, Powershell, ServiceNow, VMware, Active Directory**
 
 - 📫 How to reach me **nilayj1296@gmail.com**
 
