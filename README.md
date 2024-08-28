@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nilay Jain</h1>
 <h3 align="center">In my core, I'm a passionate Python coder who's open to learning new technologies.</h3>
 
-- 🌱 I’m currently learning **Artificial Neural Network, Machine Learning, and Blockchain**
+- 🌱 Deep diving my knowledge on **Artificial Neural Networks, Machine Learning, Deep Learning, LLMs, LangChain, Gen AI, Image Processing**
 
-- 💬 Ask me about **Python, Django, Scikit-learn,C++, SQl, Powershell, ServiceNow, VMware, Active Directory**
+- 💬 Ask me about **Python, Machine Learning Concepts, Python ML Libraries (TensorFlow, Scikit-learn), Flask, SQl, MongoDB, PostgreSQL, Powershell, ServiceNow, VMware, Active Directory**
 
-- 📫 How to reach me **nilayj1296@gmail.com**
+- 📫 How to reach me **nilayj1296@gmail.com**, **LinkedIn: https://linkedin.com/in/nilay-jain12**
 
-- ⚡ Fun fact **I'm always excited about photography and I can shoot all day.**
+- ⚡ Fun fact **I'm always excited about photography, and I can shoot all day.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
