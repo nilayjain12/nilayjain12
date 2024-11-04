@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Python, Machine Learning Concepts, Python ML Libraries (TensorFlow, Scikit-learn), Flask, SQl, MongoDB, PostgreSQL, Powershell, ServiceNow, VMware, Active Directory**
 
-- 📫 How to reach me **nilayj1296@gmail.com**, **LinkedIn: https://linkedin.com/in/nilay-jain12**
+- 📫 How to reach me **nilayj1296@gmail.com**, **LinkedIn: https://linkedin.com/in/nilay-jain12**, OR **https://nilayjain12.github.io/Nilay_Portfolio/**
 
 - ⚡ Fun fact **I'm always excited about photography, and I can shoot all day.**
 
