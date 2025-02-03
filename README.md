@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nilay Jain</h1>
 <h3 align="center">In my core, I'm a passionate Python coder who's open to learning new technologies.</h3>
 
-- 🌱 Deep diving my knowledge on **Artificial Neural Networks, Machine Learning, Deep Learning, LLMs, LangChain, Gen AI, Image Processing**
+- 🌱 Deep diving my knowledge on **Artificial Neural Networks, Machine Learning, Deep Learning, LLMs, LangChain, Gen AI, Computer Vision, Image Processing**
 
 - 💬 Ask me about **Python, Machine Learning Concepts, Python ML Libraries (TensorFlow, Scikit-learn), Flask, SQl, MongoDB, PostgreSQL, Powershell, ServiceNow, VMware, Active Directory**
 
